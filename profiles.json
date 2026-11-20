@@ -1,0 +1,450 @@
+[
+  {
+    "id": "u01",
+    "name": "Aarav",
+    "age": 21,
+    "photo": "/avatars/u01.svg",
+    "bio": "Chai > coffee. Will beat you at FIFA.",
+    "location": "IIT Delhi",
+    "interests": [
+      "Football",
+      "Gaming",
+      "Chai"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u02",
+    "name": "Ananya",
+    "age": 20,
+    "photo": "/avatars/u02.svg",
+    "bio": "Bookworm with a sarcasm problem.",
+    "location": "Delhi University",
+    "interests": [
+      "Reading",
+      "Poetry",
+      "Indie music"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u03",
+    "name": "Rohan",
+    "age": 22,
+    "photo": "/avatars/u03.svg",
+    "bio": "Building side projects at 2 AM.",
+    "location": "BITS Pilani",
+    "interests": [
+      "Coding",
+      "Startups",
+      "Cycling"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u04",
+    "name": "Ishita",
+    "age": 21,
+    "photo": "/avatars/u04.svg",
+    "bio": "Dancer. Overthinker. Dog person.",
+    "location": "Mumbai",
+    "interests": [
+      "Dance",
+      "Dogs",
+      "Travel"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u05",
+    "name": "Kabir",
+    "age": 23,
+    "photo": "/avatars/u05.svg",
+    "bio": "Weekend trekker, weekday spreadsheet guy.",
+    "location": "Bengaluru",
+    "interests": [
+      "Trekking",
+      "Photography",
+      "Finance"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u06",
+    "name": "Meera",
+    "age": 20,
+    "photo": "/avatars/u06.svg",
+    "bio": "Philosophy major, meme minor.",
+    "location": "Ashoka University",
+    "interests": [
+      "Philosophy",
+      "Memes",
+      "Coffee"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u07",
+    "name": "Vihaan",
+    "age": 22,
+    "photo": "/avatars/u07.svg",
+    "bio": "Guitarist in a band that has no name yet.",
+    "location": "NIT Trichy",
+    "interests": [
+      "Guitar",
+      "Music",
+      "Anime"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u08",
+    "name": "Saanvi",
+    "age": 19,
+    "photo": "/avatars/u08.svg",
+    "bio": "Sketching strangers at cafes.",
+    "location": "Pune",
+    "interests": [
+      "Art",
+      "Cafes",
+      "Journaling"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u09",
+    "name": "Arjun",
+    "age": 24,
+    "photo": "/avatars/u09.svg",
+    "bio": "Gym, biryani, repeat.",
+    "location": "Hyderabad",
+    "interests": [
+      "Fitness",
+      "Food",
+      "Cricket"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u10",
+    "name": "Diya",
+    "age": 21,
+    "photo": "/avatars/u10.svg",
+    "bio": "Debate society. I will win this argument.",
+    "location": "St. Stephen's College",
+    "interests": [
+      "Debating",
+      "Politics",
+      "Quizzing"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u11",
+    "name": "Reyansh",
+    "age": 22,
+    "photo": "/avatars/u11.svg",
+    "bio": "Case studies and chai breaks.",
+    "location": "IIM Ahmedabad",
+    "interests": [
+      "Business",
+      "Chess",
+      "Chai"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u12",
+    "name": "Navya",
+    "age": 20,
+    "photo": "/avatars/u12.svg",
+    "bio": "Thrifting queen and playlist curator.",
+    "location": "Jaipur",
+    "interests": [
+      "Fashion",
+      "Thrifting",
+      "Playlists"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u13",
+    "name": "Aditya",
+    "age": 23,
+    "photo": "/avatars/u13.svg",
+    "bio": "Stand-up open mic regular.",
+    "location": "Delhi",
+    "interests": [
+      "Comedy",
+      "Writing",
+      "Movies"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u14",
+    "name": "Kiara",
+    "age": 21,
+    "photo": "/avatars/u14.svg",
+    "bio": "Pottery on Sundays.",
+    "location": "Christ University",
+    "interests": [
+      "Pottery",
+      "Yoga",
+      "Plants"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u15",
+    "name": "Ishaan",
+    "age": 22,
+    "photo": "/avatars/u15.svg",
+    "bio": "Robotics nerd. Surprisingly social.",
+    "location": "IIT Bombay",
+    "interests": [
+      "Robotics",
+      "Badminton",
+      "Sci-fi"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u16",
+    "name": "Tara",
+    "age": 20,
+    "photo": "/avatars/u16.svg",
+    "bio": "Road trips and bad karaoke.",
+    "location": "Chandigarh",
+    "interests": [
+      "Road trips",
+      "Karaoke",
+      "Baking"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u17",
+    "name": "Dev",
+    "age": 24,
+    "photo": "/avatars/u17.svg",
+    "bio": "Product manager who hikes.",
+    "location": "Gurugram",
+    "interests": [
+      "Hiking",
+      "Podcasts",
+      "Coffee"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u18",
+    "name": "Myra",
+    "age": 19,
+    "photo": "/avatars/u18.svg",
+    "bio": "Aspiring journalist, professional snacker.",
+    "location": "Lady Shri Ram College",
+    "interests": [
+      "Journalism",
+      "Snacks",
+      "Theatre"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u19",
+    "name": "Yash",
+    "age": 21,
+    "photo": "/avatars/u19.svg",
+    "bio": "Valorant and late night maggi.",
+    "location": "VIT Vellore",
+    "interests": [
+      "Gaming",
+      "Maggi",
+      "Football"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u20",
+    "name": "Riya",
+    "age": 22,
+    "photo": "/avatars/u20.svg",
+    "bio": "Rabindra sangeet and rooftop sunsets.",
+    "location": "Kolkata",
+    "interests": [
+      "Music",
+      "Sunsets",
+      "Photography"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u21",
+    "name": "Neil",
+    "age": 23,
+    "photo": "/avatars/u21.svg",
+    "bio": "Surfer who actually codes.",
+    "location": "Goa",
+    "interests": [
+      "Surfing",
+      "Coding",
+      "Beaches"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u22",
+    "name": "Zoya",
+    "age": 21,
+    "photo": "/avatars/u22.svg",
+    "bio": "Architecture student, coffee-powered.",
+    "location": "Jamia Millia Islamia",
+    "interests": [
+      "Architecture",
+      "Sketching",
+      "Coffee"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u23",
+    "name": "Krish",
+    "age": 20,
+    "photo": "/avatars/u23.svg",
+    "bio": "Trying to learn salsa.",
+    "location": "Delhi Technological University",
+    "interests": [
+      "Salsa",
+      "Cooking",
+      "Cricket"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u24",
+    "name": "Anika",
+    "age": 22,
+    "photo": "/avatars/u24.svg",
+    "bio": "Marathon runner and cat parent.",
+    "location": "Pune",
+    "interests": [
+      "Running",
+      "Cats",
+      "Brunch"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u25",
+    "name": "Samar",
+    "age": 24,
+    "photo": "/avatars/u25.svg",
+    "bio": "Poetry, kebabs, and old Bollywood.",
+    "location": "Lucknow",
+    "interests": [
+      "Poetry",
+      "Food",
+      "Bollywood"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u26",
+    "name": "Pihu",
+    "age": 19,
+    "photo": "/avatars/u26.svg",
+    "bio": "Dance reels and skincare nerd.",
+    "location": "Noida",
+    "interests": [
+      "Dance",
+      "Skincare",
+      "Reels"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u27",
+    "name": "Ayaan",
+    "age": 23,
+    "photo": "/avatars/u27.svg",
+    "bio": "Carnatic vocals meet lo-fi beats.",
+    "location": "Chennai",
+    "interests": [
+      "Music",
+      "Lo-fi",
+      "Filter coffee"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u28",
+    "name": "Sia",
+    "age": 21,
+    "photo": "/avatars/u28.svg",
+    "bio": "Entrepreneur in the making, garba fan.",
+    "location": "Ahmedabad",
+    "interests": [
+      "Startups",
+      "Garba",
+      "Travel"
+    ],
+    "likesYou": true
+  },
+  {
+    "id": "u29",
+    "name": "Veer",
+    "age": 22,
+    "photo": "/avatars/u29.svg",
+    "bio": "Mountains are my therapist.",
+    "location": "Shimla",
+    "interests": [
+      "Mountains",
+      "Camping",
+      "Chess"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u30",
+    "name": "Mahi",
+    "age": 20,
+    "photo": "/avatars/u30.svg",
+    "bio": "Poha, pottery, and puns.",
+    "location": "Indore",
+    "interests": [
+      "Pottery",
+      "Puns",
+      "Food"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u31",
+    "name": "Rudra",
+    "age": 23,
+    "photo": "/avatars/u31.svg",
+    "bio": "Researcher who swears he is fun.",
+    "location": "IISc Bangalore",
+    "interests": [
+      "Science",
+      "Board games",
+      "Running"
+    ],
+    "likesYou": false
+  },
+  {
+    "id": "u32",
+    "name": "Lavanya",
+    "age": 21,
+    "photo": "/avatars/u32.svg",
+    "bio": "Film buff, will ruin your favourite movie.",
+    "location": "Mumbai University",
+    "interests": [
+      "Movies",
+      "Writing",
+      "Theatre"
+    ],
+    "likesYou": false
+  }
+]
